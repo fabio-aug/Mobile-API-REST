@@ -12,7 +12,7 @@ export default class App extends React.Component {
   }
 
   loadBloco = () => {
-    fetch("http://192.168.18.6/Mobile/SRC/")
+    fetch("http://localhost/Mobile/SRC/")
       .then(res => res.json())
       .then(res => {
         this.setState({

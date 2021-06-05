@@ -1,2 +1,3 @@
 # Mobile-API-REST
-React JS, PHP, SQL, JavaScript
+React JS, PHP, SQL, JavaScript, Estudo
+
